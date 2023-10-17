@@ -1,0 +1,18 @@
+.todoList{
+    list-style-type: none;
+    border: 10px outset gray;
+}
+h1{
+    text-align: center;
+}
+
+.emoji-smile::before{
+    content: "\1F603";
+    
+}
+.emoji-sad::before{
+    content: "\1F625";
+}
+.emoji-loudly-crying::before{
+    content: "\1F62D";
+}

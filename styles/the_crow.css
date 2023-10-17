@@ -1,0 +1,48 @@
+html{
+    border: 1em outset #b0893b;
+}
+html, body{
+    min-height: 100%;
+    box-sizing: border-box;
+    }
+body{
+    font: 900 20px 'Arial', sans-serif;
+    color: white;
+    line-height: 30px;
+    background-color: #b17014;
+    background-image: url(/HW/images/personalPage/crow.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+p{
+    white-space: pre;
+    text-indent: 50px;
+}
+h1{
+    padding-left: 150px;
+    color: #f4c76c;
+}
+h3{
+    font-style: italic;
+    font-variant: small-caps;
+    color: #322a1a;
+    padding-left: 250px;
+}
+.quotes{
+    font-style: italic;
+    letter-spacing: 2px;
+}
+.underline{
+    border-bottom: 2px solid #ffa600cf;
+}
+.about_author{
+    border-top: 10px double #b0893b;
+    color: #f4c76c;
+    text-indent: 0;
+    line-height: 20px;
+    font-weight: 600;
+}
+.footer{
+    color: black;
+    font-weight: 600;
+}

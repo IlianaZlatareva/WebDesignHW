@@ -1,0 +1,21 @@
+body{
+    width: 800px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+h1{
+    text-align: center;
+    font-weight: normal;
+}
+p{
+    padding: 20px;
+    margin: 0;
+}
+p:nth-child(even){
+    background-color: #41484E;
+    color: #DDD;
+}
+p:nth-child(odd){
+    background-color: #5E6F7D;
+    color: #EEE;
+}
